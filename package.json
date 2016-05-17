@@ -1,13 +1,14 @@
 {
   "author": "Cam Pedersen <diffference@gmail.com> (http://campedersen.com)",
   "contributors": [
-    "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)"
+    "Mikeal Rogers <mikeal.rogers@gmail.com> (http://www.mikealrogers.com)",
+    "Jose María Hidalgo Garcia <jhidalgo3@gmail.com>"
   ],
-  "name": "timeago",
-  "description": "A wrapper for Ryan McGeary's Pretty Date function",
+  "name": "timeago-es",
+  "description": "A wrapper for Ryan McGeary's Pretty Date function (Spanish translation)",
   "version": "0.2.0",
   "repository": {
-    "url": "https://github.com/ecto/node-timeago"
+    "url": "https://github.com/jhidalgo3/node-timeago-es"
   },
   "main": "timeago.js",
   "engines": {

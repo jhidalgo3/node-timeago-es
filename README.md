@@ -1,17 +1,17 @@
-# timeago
+# timeago-es
 
-A wrapper for Ryan McGeary's [jQuery plugin](http://timeago.yarp.com/).
+A wrapper for Ryan McGeary's [jQuery plugin](http://timeago.yarp.com/) (Spanish translation).
 
 ![timeago](http://i.imgur.com/W1Zwy.png)
 
 #install
 
-    npm install timeago
+    npm install timeago-es
 
 #usage
 
 ````javascript
-var timeago = require('timeago');
+var timeago = require('timeago-es');
 
 var pretty = timeago(+new Date());
 
@@ -24,7 +24,7 @@ You can also use it in Express app templates:
 var app = express.createServer();
 
 app.helpers({
-  timeago: require('timeago')
+  timeago: require('timeago-es')
 });
 ````
 
